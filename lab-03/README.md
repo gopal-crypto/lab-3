@@ -1,10 +1,12 @@
 # Lab 3: REST API, Query Parameters, Validation, Debugging
 
-**Name:** Student Name  
-**Registration Number:** REG-XXXX  
-**Section:** Section A  
+**Name:** Harshavardhan  
+**GitHub:** harshavardhan1-bit  
+**Registration Number:** (Add your Reg No here)  
+**Section:** (Add your Section here)  
 
-**Live Link:** Not applicable (local server — see Postman screenshots below)
+**Live Link:** Not applicable (local server — see Postman / API output screenshots below)
+**GitHub Repository:** https://github.com/harshavardhan1-bit/lab-3
 
 ---
 
