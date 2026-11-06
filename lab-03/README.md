@@ -1,9 +1,14 @@
 # Lab 3: REST API, Query Parameters, Validation, Debugging
 
-**Name:** Harshavardhan  
-**Registration Number:** 252U1R5085  
-**Section:** 313 CSE AI DE 2B  
-**GitHub Repository:** https://github.com/harshavardhan1-bit/lab-3
+| Information | Details |
+|---|---|
+| **Name** | Harshavardhan |
+| **Registration Number** | 252U1R5085 |
+| **Section** | 313 CSE AI DE 2B |
+| **Course** | Backend Development Fundamentals · Year II Term II |
+| **Module** | RESTful API development and validation |
+| **Faculty** | Joel Prashanth D |
+| **GitHub Repository** | [https://github.com/harshavardhan1-bit/lab-3](https://github.com/harshavardhan1-bit/lab-3) |
 
 ---
 
