@@ -1,11 +1,8 @@
 # Lab 3: REST API, Query Parameters, Validation, Debugging
 
 **Name:** Harshavardhan  
-**GitHub:** harshavardhan1-bit  
-**Registration Number:** (Add your Reg No here)  
-**Section:** (Add your Section here)  
-
-**Live Link:** Not applicable (local server — see Postman / API output screenshots below)
+**Registration Number:** 252U1R5085  
+**Section:** 313 CSE AI DE 2B  
 **GitHub Repository:** https://github.com/harshavardhan1-bit/lab-3
 
 ---
