@@ -7,7 +7,7 @@
 | **Section** | 313 CSE AI DE 2B |
 | **Course** | Backend Development Fundamentals · Year II Term II |
 | **Module** | RESTful API development and validation |
-| **Faculty** | Joel Prashanth D |
+| **Faculty** | Mr Yugandhar Gurjalwar |
 | **GitHub Repository** | [https://github.com/harshavardhan1-bit/lab-3](https://github.com/harshavardhan1-bit/lab-3) |
 
 ---
