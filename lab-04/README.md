@@ -1,7 +1,7 @@
 | Information | Details | Additional Information |
 |---|---|---|
-| Student Name | KUNCHALA HARSHA VARDHAN | |
-| Student Registration Number | 2521UR5085 | Class & Section: 313 AI DE 2B |
+| Student Name | NETI NAGA DATTA GOPAL | |
+| Student Registration Number | 2521UR5113 | Class & Section: 313 AI DE 2B |
 | Study Level : UG/PG/Doctorate | UG | Year & Term: 2 & 2 |
 | Subject Name | Backend Development Fundamentals | |
 | Teacher / Faculty Name | Joel Prashanth D | |
